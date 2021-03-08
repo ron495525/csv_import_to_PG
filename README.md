@@ -8,6 +8,8 @@ clean the table name and remove all symbols, spaces, capital letters
 
 clean the column headers and remove all symbols, spaces, capital letters
 
+convert CSV datatypes to SQL datatypes
+
 write the create table SQL statement
 
 import the data into the DB
