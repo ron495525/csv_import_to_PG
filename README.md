@@ -1,5 +1,5 @@
 # csv_import_to_PG
-Import CSV into pandas dataframe, clean table name + column headers and import data to PG (AWS RDS) automatically
+Import CSV into pandas dataframe, clean table name + column headers and import data to PG (AWS RDS in my case) automatically
 
 STEPS - 
 import the CSV file into pandas dataframe
